@@ -1,5 +1,3 @@
 node_modules/
 screenshots/
 target/
-package-lock.json
-package.json

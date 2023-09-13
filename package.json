@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "jasmine": "^5.1.0",
+    "jasmine-allure-reporter": "^1.0.2",
+    "protractor-html-reporter-2": "^1.0.4"
+  },
+  "devDependencies": {
+    "protractor-jasmine2-screenshot-reporter": "^0.5.1"
+  }
+}
